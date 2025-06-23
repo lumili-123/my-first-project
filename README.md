@@ -1,2 +1,2 @@
 # my-first-project
-练习项目
+这是一个练习项目。
